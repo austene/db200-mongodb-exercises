@@ -1,7 +1,12 @@
 # db200-mongodb-exercises
 
 ## Purpose of Program
-Tests MongoDB queries to an example database ('mongo_exercises').
+Tests the following commands to a MongoDB example database ('mongo_exercises')
+- Insert
+- Query/Find
+- Update
+- Text Search
+- Delete
 
 ## Setup
 
